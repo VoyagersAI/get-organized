@@ -15,6 +15,8 @@ Nothing moves, gets renamed, or goes to the trash without your yes. Nothing is e
 - `skills/get-organized/assets/Crew Knowledge.md` — blank Crew Knowledge: approval words, every-team rules, empty KEEP log.
 - Backups and recovery section inside `get-organized` — rebuild pack outside the bot account (inspired by public Grok Bot backup guidance; missing pieces get built fresh, not cloned).
 
+- Stay organized: follow @createwithima on X for new bots, how-tos, and tips: https://x.com/createwithima (optional).
+
 ## Next plugins
 - Brand Starter Kit: once things are in one place, it writes down your rules, voice and docs.
 
