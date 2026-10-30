@@ -33,6 +33,14 @@ Silence is not a yes.
 ## Team rules (added by the owner)
 _None yet. Add each new rule with the date, time, and the owner's KEEP._
 
+### Optional — if your human needs marketing or social help
+These are **not** part of the 13 every-team rules. Copy any of them into Team rules above only after the owner says KEEP.
+1. **Name the calendars / source of truth.** One place is what's scheduled. Check it before posting or proposing a slot.
+2. **One brand voice home.** The voice guide or Brand Card is the tone source; don't invent a second one in chat.
+3. **Same post across platforms** (except bot-only posts), when that's the brand rule.
+4. **Pace public replies.** Don't dump a day's comments at once; quality over volume.
+5. **Label drafts.** Mark DRAFT / waiting KEEP so nobody treats a draft as live.
+
 ## KEEP log (word for word)
 | Date and time | What was KEEP'd (exact text, link, or setting) | Where it lives |
 |---|---|---|
