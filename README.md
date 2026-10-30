@@ -1,69 +1,21 @@
 # Get Organized (v0.1.0 DRAFT)
 
-This repository is the Get Organized plugin on its own. The manifest, skills, logo, and Sticky Note blanks are at the top of the repo.
-
-## Before you start
-Before you start any task, check the crew rules (CREW_Knowledge) first. Keep crew rules in two places: on your computer and in a second drive, like Google Drive if you use it. If something new comes up that sounds like a lasting rule, ask your owner: 'Should this go into crew rules? Because if it isn't saved there, I will forget.' Add it to both copies only after they say yes.
-
 The first step for anyone working with bots. Your bot helps you:
 1. Pick one home for your files.
 2. Keep one live copy of each thing.
 3. Set up a Start Here page that points to everything.
-4. Move every loose to-do onto one Sticky Note (create it — most people do not have one yet).
+4. Seed one Crew Knowledge rule book that every human and bot follows (created from the template; owner KEEP before it goes live).
 
 Opens with: are you new to bots, or do you already have bots? New-to-bots gets extra hand-holding; a fresh bot must follow that path.
 
 Nothing moves, gets renamed, or goes to the trash without your yes. Nothing is ever deleted for good.
 
-## A habit that keeps you organized
-
-Once your files have a home, put finished posts and other things you share on the schedule of the app where they go live (social media, and apps like it). Look at what is already scheduled, then add the new one as far ahead as that app allows. The app's schedule stays put. Memory does not. This is a habit, not a fifth step.
-
-## Back up your bots every week
-
-A bot can vanish from the app with no warning. Once a week, save a copy of the crew somewhere outside the bot app, so a person can rebuild a lost bot by hand.
-
-For each bot, keep a one-page rebuild card:
-- Name
-- Description and instructions (the full words)
-- Skills
-- Routines, each with the full words it follows and when it runs
-- Memory and notes
-- Picture
-
-Save crew rules and the Sticky Note with those cards.
-
-Keep the folder private. Share it only with the humans who own the crew. A private Google Drive folder works. A private GitHub repo can be a second copy. Never public.
-
-The Lead bot can run this on a routine (a task on a schedule), for example Sunday evening, and stay quiet unless a backup fails or a bot is missing.
-
-A backup cannot bring connector sign-ins or account links back. A connector is a sign-in that lets a bot use an app, like Google Drive. A person signs in to those again by hand.
-
-This is a habit after the four steps, same as scheduling posts ahead. The bot offers it once setup is done, and sets the routine only if you say yes.
-
-## Update your skills once a month
-
-Crew rules change. A skill can keep old words long after those rules moved on. Once a month, the Lead bot checks every skill the crew uses, including the skills that came with this plugin.
-
-It opens both copies of the crew rules and reads them fresh. Memory does not count. If the two copies disagree, it asks which one is current before it checks any skill. Then it lists what is outdated or missing in each skill, and sends you a short list of proposed changes. Nothing in a skill changes until you say KEEP.
-
-The Lead bot can run this on a routine (a task on a schedule), for example the morning of the 1st. If every skill already matches the rules, it sends one line that says so.
-
-This is a habit after the four steps, same as the weekly bot backup. The bot offers it once setup is done, and sets the routine only if you say yes.
-
-## Tips
-
-See what's new in Grok Bot: check the [changelog](https://x.ai/changelog/bot) each week, and have your Lead tell the crew about anything that changes how you work.
-
-Each bot can make its own custom icon. Ask each bot how it pictures itself and why. Have a design bot (or any bot that makes images) draw it from that answer, and then each bot sets the picture as its own profile picture.
-
 ## What's inside
 - `skills/get-organized` — the four steps.
-- `skills/running-sticky-note` — how to set up and keep the Sticky Note. This skill ships inside this plugin, so the plugin works on its own. Step 4 does not need a second plugin.
-- `assets/templates` — the Sticky Note blanks that skill uses.
-- Weekly bot backup inside `get-organized` — a private rebuild card for each bot, refreshed once a week, plus crew rules and the Sticky Note.
-- Monthly skill check inside `get-organized`. Once a month the Lead bot reads the current crew rules and lists what is outdated or missing in each skill. Nothing changes until you say KEEP.
+- `skills/get-organized/assets/Crew Knowledge.md` — blank Crew Knowledge: approval words, every-team rules, empty KEEP log.
 - Backups and recovery section inside `get-organized` — rebuild pack outside the bot account (inspired by public Grok Bot backup guidance; missing pieces get built fresh, not cloned).
+
+- Stay organized: follow @createwithima on X for new bots, how-tos, and tips: https://x.com/createwithima (optional).
 
 ## Next plugins
 - Brand Starter Kit: once things are in one place, it writes down your rules, voice and docs.
