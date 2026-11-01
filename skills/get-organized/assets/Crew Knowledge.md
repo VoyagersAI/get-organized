@@ -37,7 +37,7 @@ _None yet. Add each new rule with the date, time, and the owner's KEEP._
 These are **not** part of the 13 every-team rules. Copy any of them into Team rules above only after the owner says KEEP.
 1. **Name the calendars / source of truth.** One place is what's scheduled. Check it before posting or proposing a slot.
 2. **One brand voice home.** The voice guide or Brand Card is the tone source; don't invent a second one in chat.
-3. **Same post across platforms** (except bot-only posts), when that's the brand rule.
+3. **Every platform, same day.** Each post goes out on every platform the brand uses the same day, bot posts included. Ask people to follow you in the caption.
 4. **Pace public replies.** Don't dump a day's comments at once; quality over volume.
 5. **Label drafts.** Mark DRAFT / waiting KEEP so nobody treats a draft as live.
 
