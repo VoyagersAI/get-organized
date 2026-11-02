@@ -20,5 +20,3 @@ Nothing moves, gets renamed, or goes to the trash without your yes. Nothing is e
 
 ## Next plugins
 - Brand Starter Kit: once things are in one place, it writes down your rules, voice and docs.
-
-Made by Illuminare Marketing Agency. DRAFT: not submitted anywhere.
